@@ -15,7 +15,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/M-A-Yakout/CodeAlpha_Language-Translation-Tool.git
    cd CodeAlpha_Language Translation Tool
    ```
 
